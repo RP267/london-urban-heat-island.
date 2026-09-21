@@ -1,10 +1,3 @@
-"""
-London Priority Zones Map
-----------------------------
-Visualizes which boroughs are flagged as priority zones (hot + low green
-cover) against the rest of London, using the CSV saved by
-greenspace_overlay.py.
-"""
 
 import geopandas as gpd
 import pandas as pd
