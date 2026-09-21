@@ -15,7 +15,7 @@ This project uses satellite thermal imagery and open geospatial data to answer t
 - **8 boroughs** were flagged as priority zones (above-average heat + below-average green cover): Brent, Kingston upon Thames, Hammersmith and Fulham, Harrow, Hillingdon, Lewisham, Lambeth, and City of London.
 - These priority boroughs form two distinct geographic clusters — northwest London (Hillingdon, Harrow, Brent, Hammersmith and Fulham) and south London (Lambeth, Lewisham, Kingston) — suggesting shared underlying causes within each cluster rather than isolated cases.
 
-![Priority zones map](outputs/london_priority_zones_map.png)
+<img width="2000" height="2000" alt="london_priority_zones_map" src="https://github.com/user-attachments/assets/8fe94b5b-7cc1-47c4-aba6-2a2311644694" />
 
 ## Methodology
 
